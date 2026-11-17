@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Pharos.Api/Pharos.Api.csproj" />
+    <Project Path="src/Pharos.Application/Pharos.Application.csproj" />
+    <Project Path="src/Pharos.Contracts/Pharos.Contracts.csproj" />
+    <Project Path="src/Pharos.Domain/Pharos.Domain.csproj" />
+    <Project Path="src/Pharos.Infrastructure/Pharos.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Pharos.Application.Tests/Pharos.Application.Tests.csproj" />
+    <Project Path="tests/Pharos.Domain.Tests/Pharos.Domain.Tests.csproj" />
+    <Project Path="tests/Pharos.IntegrationTests/Pharos.IntegrationTests.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pharos.Application\Pharos.Application.csproj" />
+    <ProjectReference Include="..\Pharos.Infrastructure\Pharos.Infrastructure.csproj" />
+    <ProjectReference Include="..\Pharos.Contracts\Pharos.Contracts.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>
